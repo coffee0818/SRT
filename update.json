@@ -1,7 +1,7 @@
 {
-  "NewVer": "3.5",
+  "NewVer": "0.9",
   "Extension": "exe",
   "HashValue": "68C99E62",
   "ReleaseDate": "2020/11/15 10:05",
-  "Description": "",
+  "Description": ["增加", "减少"]
 }
